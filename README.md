@@ -10,24 +10,30 @@ If you took at least a minute to read what Casperjs is, you probably know this s
 
 
 
-== Dependencies ==
+Dependencies
+------------
 CasperJs
 PhantonJs
 
-== Running ==
+Running
+---------
 $ casperjs movimentoscgd.js ‹contract-nr› ‹password›
 
-=== Security ===
+Security
+--------
 Use this at your own risk... as far as I know the passwords needed by this script don't allow you to make any kind of payments which is obviosly a good thing. :)
 
-== Todo ==
+Todo
+----
 * Add a script to get the account balance
 * Output better formated content, probably json. (currently it's just plain text)
 * What to do if the script fails.
 
-=== Later ===
+Later
+-----
 * Make it work for users with multiple bank accounts
 
 
-== License ==
+License
+-------
 © Alexandre Castro and is distributed under the terms of the GNU General Public License 

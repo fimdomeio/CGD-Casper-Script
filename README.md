@@ -28,6 +28,7 @@ Todo
 * Add a script to get the account balance
 * Output better formated content, probably json. (currently it's just plain text)
 * What to do if the script fails.
+* Add other banks (Banco Big will be next, fell to contribute with other banks)
 
 Later
 -----
